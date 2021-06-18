@@ -1,6 +1,82 @@
-https://iptvmate.net/files/freeiptv/IQ01_IRAQ.m3u
-https://iptvmate.net/files/freeiptv/IQ01_SYRIA.m3u
-https://iptvmate.net/files/freeiptv/IQ01_LEBANON.m3u
-https://iptvmate.net/files/freeiptv/IQ01_AE.m3u
-https://iptvmate.net/files/freeiptv/IQ01_QATAR.m3u
-https://iptvmate.net/files/freeiptv/IQ01_KUWAIT.m3u
+[
+  ...
+  {
+    "name": "ALL Country",
+    "logo": "https://commons.wikimedia.org/wiki/File:Arabic_Language.svg",
+    "url": "https://iptv-org.github.io/iptv/languages/ara.m3u"
+    
+    }
+  },
+  ...
+]
+https://iptv-org.github.io/iptv/index.country.m3u (grouped by country)
+https://iptv-org.github.io/iptv/languages/ara.m3u
+
+[
+  ...
+  {
+    "name": "IRAQ",
+    "logo": "https://de.wikipedia.org/wiki/Flagge_des_Irak#/media/Datei:Flag_of_Iraq.svg",
+    "url": "http://ott-cdn.ucom.am/s27/index.m3u8",
+    "category": "Familie",
+    "language": [
+      {
+        "code": "ARABISCHE",
+        "name": "Arabische"
+      }
+    ],
+    "country": {
+      "code": "iq",
+      "name": "IRAQ"
+    },
+    "tvg": {
+      "id": "Iraq.iq",
+      "name": "IRAQ",
+      "url":]https://iptvmate.net/files/freeiptv/IQ01_IRAQ.m3u
+ "
+    }
+  },
+  ...
+  ]
+ [
+  ...
+  {
+    "name": "CNN",
+    "logo": "https://i.imgur.com/ilZJT5s.png",
+    "url": "http://ott-cdn.ucom.am/s27/index.m3u8",
+    "category": "fAMILIE",
+    "language": [
+      {
+        "code": "Arab",
+        "name": "Arabische"
+      }
+    ],
+    "country": {
+      "code": "bh",
+      "name": "Bahrain"
+    },
+    "tvg": {
+      "id": ",bahrain",
+      "name": "ba",
+      "url": "https://iptv-org.github.io/iptv/countries/bh.m3u	"
+    }
+  },
+  ...
+] 
+]https://iptvmate.net/files/freeiptv/IQ01_IRAQ.m3u
+https://iptv-org.github.io/iptv/countries/bh.m3u	
+https://iptv-org.github.io/iptv/countries/jo.m3u	
+https://iptv-org.github.io/iptv/countries/kw.m3u	
+https://iptv-org.github.io/iptv/countries/ly.m3u	
+https://iptv-org.github.io/iptv/countries/lb.m3u	
+https://iptv-org.github.io/iptv/countries/ma.m3u	
+https://iptv-org.github.io/iptv/countries/om.m3u	
+https://iptv-org.github.io/iptv/countries/ps.m3u	
+https://iptv-org.github.io/iptv/countries/qa.m3u	
+https://iptv-org.github.io/iptv/countries/sa.m3u	
+https://iptv-org.github.io/iptv/countries/sd.m3u	
+https://iptv-org.github.io/iptv/countries/sy.m3u	
+https://iptv-org.github.io/iptv/countries/tn.m3u	
+https://iptv-org.github.io/iptv/countries/ae.m3u	
+https://iptv-org.github.io/iptv/countries/eh.m3u	
+https://iptv-org.github.io/iptv/countries/ye.m3u	
